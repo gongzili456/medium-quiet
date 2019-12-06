@@ -1,3 +1,5 @@
+![](./doc_imgs/icon128.png)
+
 ## Let Medium be quiet!
 
 This is a Chrome extension to let your medium be quiet!
